@@ -11,7 +11,7 @@
 
 <p> Lastly, for <b> C# </b> - the nuget Iot.Device.Bindings package is used. </p> 
 
-<br>
+<br/>
 Instructions and basic details for configuring the Raspberry Pi to run the example code can be found at the beginning of each of the respective code examples:
 <ul>
   <li>
@@ -33,4 +33,6 @@ These projects will continue to expand in capability and complexity, so please c
 A simple example for reading and transmitting temperature sensor telemetry to the Azure Cloud (IoT Hub) can be found here: 
 https://github.com/mwcorley79/python3probes/blob/main/python_rpi_temperature_iot_device.py
 
+<h3> <b> Raspberry Pi 2, simple LED breadboard used for the comparion test </b> </h3>
 
+![rpi2](https://user-images.githubusercontent.com/51803504/209216036-8849c81c-152c-40e8-b91f-5091027066d7.png)
