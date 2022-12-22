@@ -6,7 +6,7 @@
 <p> For <b> Python </b> - the library illustrated is gpiozero, with example code taken from “Physical computing with Python” (https://projects.raspberrypi.org/en/projects/physical-computing/4).  This project was chosen because there is an initiative to adapt/port the project to Rust:  “Physical Computing with Rust” ( https://rahul-thakoor.github.io/physical-computing-rust/step_0.html), and I felt that it would be easy method to compare Rust and Python code.
 </p>
 
-<p> For <b> C/C++ </b> - the community supported fork of the wiringPi library used used (https://github.com/WiringPi/WiringPi.git), with code examples taken from: http://wiringpi.com/examples/blink/
+<p> For <b> C/C++ </b> - the community supported fork of the wiringPi library is  used (https://github.com/WiringPi/WiringPi.git), with code examples taken from: http://wiringpi.com/examples/blink/
 </p>
 
 <p> Lastly, for <b> C# </b> - the nuget Iot.Device.Bindings package is used. </p> 
@@ -32,3 +32,5 @@ These projects will continue to expand in capability and complexity, so please c
 </p>
 A simple example for reading and transmitting temperature sensor telemetry to the Azure Cloud (IoT Hub) can be found here: 
 https://github.com/mwcorley79/python3probes/blob/main/python_rpi_temperature_iot_device.py
+
+
